@@ -13,6 +13,3 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝ 
 
 
-
-![2488f89adcbd890b706901dfc5ec9fca](https://github.com/user-attachments/assets/efd689f9-5880-4216-8a29-20cd40722efd)
-
