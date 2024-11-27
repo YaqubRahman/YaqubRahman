@@ -22,7 +22,7 @@
  - 📜 Has experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
  - 🔨 Has skills in Video editing, Animating, Git and Calligraphy
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?YaqubRahman=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
