@@ -20,7 +20,9 @@
 # 
  - 💻 I'm an undergraduate CS student 
  - 📜 Has experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
- - 🔨 Has skills in Video editing, Animating, Git and Calligraphy 
+ - 🔨 Has skills in Video editing, Animating, Git and Calligraphy
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true
 
 
 
