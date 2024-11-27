@@ -24,6 +24,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?YaqubRahman=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaqubRahman&show_icons=true&theme=dark
+
 
 
 
