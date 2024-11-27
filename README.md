@@ -1,8 +1,5 @@
 <h1 align="center">
-  <strong>Hi there 👋, I'm:</strong>
-</h1>
-<h1 align="center">
-Yaqub Rahman
+  <strong>Hi there 👋, I'm Yaqub Rahman:</strong>
 </h1>
 
 ██╗░░░██╗░█████╗░░██████╗░██╗░░░██╗██████╗░
