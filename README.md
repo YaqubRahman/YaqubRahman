@@ -23,8 +23,11 @@
  - 🔨 Has skills in Video editing, Animating, Git and Calligraphy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YaqubRahman)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
+
+## Top Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
