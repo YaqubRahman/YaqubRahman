@@ -1,7 +1,9 @@
 <h1 align="center">
   <strong>Hi there 👋, I'm Yaqub Rahman:</strong>
-  ![Hello, I am Yaqub Rahman](https://github.com/YaqubRahman/YaqubRahman/blob/main/HelloYaqub.gif)
 </h1>
+<div align="center">
+  <img src="https://github.com/YaqubRahman/YaqubRahman/blob/main/HelloYaqub.gif" alt="Hello, I am Yaqub Rahman">
+</div>
 
 
 
