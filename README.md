@@ -24,7 +24,8 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
-[![trophy](https://github-profile-trophy.vercel.app/?username=YaqubRahman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YaqubRahman&theme=darkhub&no-bg=true&column=3&row=2&exclude=Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
 
