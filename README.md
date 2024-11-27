@@ -20,7 +20,7 @@
  - 📜 Has experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
  - 🔨 Has skills in Video editing, Animating, Git and Calligraphy
 #
-<div align="center" style="padding: 4px;">
+<div align="center" style="padding: 50px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact" alt="Top Langs" style="margin: 10px;">
   </a>
