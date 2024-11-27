@@ -1,4 +1,4 @@
-<p align="center" font-size: 26px>
+<p align="center" font-size: 76px>
 <strong>Hi there 👋, I'm:</strong>
 </p>
 
