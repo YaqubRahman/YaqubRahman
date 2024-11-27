@@ -15,7 +15,8 @@
 ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║╚████║
 ██║░░██║██║░░██║██║░░██║██║░╚═╝░██║██║░░██║██║░╚███║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
-![Hello, I am Yaqub Rahman]([https://github.com/YaqubRahman/YaqubRahman/blob/main/path/to/your-gif.gif](https://github.com/YaqubRahman/YaqubRahman/blob/main/HelloYaqub.gif))
+![Hello, I am Yaqub Rahman](https://github.com/YaqubRahman/YaqubRahman/blob/main/HelloYaqub.gif)
+
 
 # 
  - 💻 I'm an undergraduate CS student 
