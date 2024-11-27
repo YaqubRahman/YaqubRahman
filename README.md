@@ -2,7 +2,7 @@
   <strong>Hi there 👋, I'm Yaqub Rahman:</strong>
 </h1>
 <div align="center">
-  <img src="https://github.com/YaqubRahman/YaqubRahman/blob/main/GithubYaqub.gif" alt="Hello, I am Yaqub Rahman">
+  <img src="https://github.com/YaqubRahman/YaqubRahman/blob/main/GithubYaqub2.gif" alt="Hello, I am Yaqub Rahman">
 </div>
 
 
