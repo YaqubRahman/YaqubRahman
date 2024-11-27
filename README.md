@@ -9,8 +9,8 @@
 
 # 
  - 💻 I'm an undergraduate CS student 
- - 📜 Has experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
- - 🔨 Has skills in Video editing, Animating, Git and Calligraphy
+ - 📜 I have experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
+ - 🔨 I have skills in Video editing, Animating, Git and Calligraphy
 #
 <div align="center" style="padding: 4px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
