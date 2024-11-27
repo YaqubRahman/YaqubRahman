@@ -24,14 +24,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YaqubRahman)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
-<div align="center">
-  <blockquote>
-    <p style="font-size: 24px; font-style: italic;">"Your custom quote goes here."</p>
-    <footer>- Your Name</footer>
-  </blockquote>
-</div>
+
 
 
 ## GitHub Stats
