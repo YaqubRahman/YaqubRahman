@@ -26,7 +26,7 @@
 #
 <div align="center" >
   
-[Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
 
 </div>
 
