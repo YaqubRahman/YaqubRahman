@@ -8,7 +8,7 @@
 
 
 # 
- - 💻 I'm an undergraduate CS student 
+ - 💻 I'm a first year undergraduate CS student 
  - 📜 I have experience in Python, Java, Javascript, HTML, CSS, MySQL, Vue.js, Nuxt.js and React 
  - 🔨 I have skills in Video editing, Animating, Git and Calligraphy
 #
