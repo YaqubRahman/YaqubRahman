@@ -12,14 +12,14 @@
 
 <div align="center" style="padding: 4px;"> 
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact&theme=dark" alt="Top Langs" style="margin-right: 20px;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&amp;layout=compact&amp;theme=dark" alt="Top Langs" style="margin-right: 20px;"> 
   </a> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=YaqubRahman&theme=darkhub&no-bg=true&column=3&row=2&exclude=Stars,Issues,PullRequest" alt="Trophy" style="margin-left: 20px;"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=YaqubRahman&amp;theme=darkhub&amp;no-bg=true&amp;column=3&amp;row=2&amp;exclude=Stars,Issues,PullRequest" alt="Trophy" style="margin-left: 20px;"> 
   </a> 
 </div>
 
 #
-<div align="center" >
-  ![Profile Views](https://komarev.com/ghpvc/?username=YaqubRahman&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
