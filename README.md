@@ -24,5 +24,5 @@
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&langs_count=8)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YaqubRahman)](https://github.com/YaqubRahman/github-readme-stats)
 
