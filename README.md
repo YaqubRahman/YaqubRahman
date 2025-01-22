@@ -23,3 +23,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=donut)](https://github.com/YaqubRahman/github-readme-stats)
