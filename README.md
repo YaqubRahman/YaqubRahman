@@ -25,5 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaqubRahman&theme=nord_dark) 
+
 
 
