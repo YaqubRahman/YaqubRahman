@@ -7,7 +7,7 @@
  - 💻 I'm a first year undergraduate CS student 
  - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, HTML, CSS, MySQL and React 
  - ⚙️ I have skills in Video editing, Animating, Git and Calligraphy
- - ⚒️ Currently developing a full stack app, a kotlin app and working on an AI startup
+ - ⚒️ Currently working on an AI startup, learning C++ and creating a compiler
  - 💡 Open to new ideas and willing to learn more!
 #
 
