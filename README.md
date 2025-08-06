@@ -4,7 +4,7 @@
 </div>
 
 # 
- - 💻 I'm a first year undergraduate CS student 
+ - 💻 I'm a second year undergraduate CS student 
  - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, HTML, CSS, MySQL and React 
  - ⚙️ I have skills in Video editing, Animating, Git and Calligraphy
  - ⚒️ Currently building Montage AI
