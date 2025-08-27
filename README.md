@@ -4,10 +4,10 @@
 </div>
 
 # 
- - 💻 I'm a second year undergraduate CS student 
+ - 🎓 I'm a second year undergraduate CS student
+ - ⚒️ Tech Lead @ Montage AI | SWE @ SoukAI
  - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, HTML, CSS, MySQL and React 
  - ⚙️ I have skills in Video editing, Animating, Git and Calligraphy
- - ⚒️ Currently building Montage AI
  - 💡 Open to new ideas and willing to learn more!
 #
 
@@ -23,4 +23,25 @@
 #
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
+</div>
+
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YaqubRahman&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+#
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaqubRahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+#
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Tech+lead+with+creative+vision.;Mentor,+builder,+debugger.;Designing+intuitive+AI+tools.;Shipping+with+clarity+and+impact." alt="Typing SVG" />
 </div>
