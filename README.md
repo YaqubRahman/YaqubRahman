@@ -27,7 +27,9 @@
 
 
 <div align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=YaqubRahman&theme=react" alt="Contribution Grid" />
+  <a href="https://devcard.link/YaqubRahman">
+    <img src="https://devcard.link/api/card?user=YaqubRahman" alt="Yaqub's Dev Card" />
+  </a>
 </div>
 
 
