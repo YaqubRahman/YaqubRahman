@@ -20,12 +20,29 @@
   </a> 
 </div>
 
+## 🚀 My Stack & Spaces
 
+<div align="center">
 
-## 🧪 Terminal Snapshot
+  <a href="https://github.com/YaqubRahman/MontageAI-Panel">
+    <img src="https://img.shields.io/badge/Montage%20AI-Panel-blue?style=for-the-badge&logo=github" alt="Montage AI Panel" />
+  </a>
 
-[![asciinema](https://asciinema.org/a/your-recording-id.svg)](https://asciinema.org/a/your-recording-id)
+  <a href="https://github.com/YaqubRahman">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 
+  <a href="https://www.figma.com/files/user/YaqubRahman">
+    <img src="https://img.shields.io/badge/Figma-Designs-purple?style=for-the-badge&logo=figma" alt="Figma Designs" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/yaqub-rahman">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 
+  <a href="mailto:yaqub@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+</div>
 
