@@ -25,8 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
 
-## 🧠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,html,css,mysql,react,docker,git,figma" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=YaqubRahman&theme=react" alt="Contribution Grid" />
 </div>
+
+
