@@ -20,10 +20,6 @@
   </a> 
 </div>
 
-#
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
-</div>
 
 
 ## 🧪 Terminal Snapshot
