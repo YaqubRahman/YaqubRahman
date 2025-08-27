@@ -14,4 +14,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaqubRahman&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&amp;layout=compact&amp;theme=tokyonight"/> 
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaqubRahman&theme=tokyonight" />
 </div>
