@@ -26,9 +26,10 @@
 </div>
 
 
-## 🎨 Featured Project: Montage UI Prototype
+## 🚀 Featured Projects
 
-[![Montage UI on CodePen](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=codepen)](https://codepen.io/YOUR_USERNAME/pen/YOUR_PEN_ID)
+[![Montage AI Panel](https://github-readme-projects.vercel.app/api/projects?username=YaqubRahman&theme=dark)](https://github.com/YaqubRahman/MontageAI-Panel)
+
 
 
 
