@@ -11,14 +11,7 @@
  - 💡 Open to new ideas and willing to learn more!
 #
 
-<div align="center" style="padding: 4px;"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&amp;layout=compact&amp;theme=blue_navy" alt="Top Langs" style="margin-right: 20px;"> 
-  </a> 
-</div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaqubRahman&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&amp;layout=compact&amp;theme=tokyonight"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YaqubRahman&theme=tokyonight" />
 </div>
