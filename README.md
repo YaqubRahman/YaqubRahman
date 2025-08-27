@@ -26,9 +26,9 @@
 </div>
 
 
-## 🚀 Featured Projects
+## 🧪 Terminal Snapshot
 
-[![Montage AI Panel](https://github-readme-projects.vercel.app/api/projects?username=YaqubRahman&theme=dark)](https://github.com/YaqubRahman/MontageAI-Panel)
+[![asciinema](https://asciinema.org/a/your-recording-id.svg)](https://asciinema.org/a/your-recording-id)
 
 
 
