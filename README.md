@@ -26,10 +26,9 @@
 </div>
 
 
-<div align="center">
-  <a href="https://devcard.link/YaqubRahman">
-    <img src="https://devcard.link/api/card?user=YaqubRahman" alt="Yaqub's Dev Card" />
-  </a>
-</div>
+## 🎨 Featured Project: Montage UI Prototype
+
+[![Montage UI on CodePen](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=codepen)](https://codepen.io/YOUR_USERNAME/pen/YOUR_PEN_ID)
+
 
 
