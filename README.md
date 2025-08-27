@@ -25,7 +25,13 @@
   <img src="https://komarev.com/ghpvc/?username=YaqubRahman&amp;color=blue" alt="Profile Views">
 </div>
 
-<!-- Optional: Typing animation for flair -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Tech+meets+design.;Backend+meets+branding.;Debugging+meets+mentorship." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaqubRahman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+#
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YaqubRahman&color=blue" alt="Profile Views">
 </div>
