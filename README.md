@@ -7,8 +7,8 @@
  - 🎓 I'm a second year undergraduate CS student
  - ⚒️ Tech Lead @ Montage AI | SWE @ SoukAI
  - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, HTML, CSS, MySQL and React 
- - ⚙️ I have skills in Video editing, Animating, Git and Calligraphy
- - 💡 Open to new ideas and willing to learn more!
+ - 🧠 Currently exploring neural networks with (TensorFlow and Keras) and RAG systems
+ - 💡 Currently building: MontageAI and a compiler
 #
 
 <div align="center">
