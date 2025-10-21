@@ -5,10 +5,10 @@
 
 # 
  - 🎓 I'm a second year undergraduate CS student
- - ⚒️ Tech Lead @ Montage AI | SWE @ SoukAI
- - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, HTML, CSS, MySQL and React 
- - 🧠 Currently exploring neural networks with (TensorFlow and Keras) and RAG systems
- - 💡 Currently building: MontageAI and a compiler
+ - 🧰 Tech Lead @ Montage AI | SWE @ SoukAI
+ - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, C++, MySQL, React and more! 
+ - 🧬 Currently exploring neural networks with TensorFlow and Keras alongside RAG systems
+ - 🛠️ Currently building: MontageAI and a compiler
 #
 
 <div align="center">
