@@ -13,6 +13,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact&theme=tokyonight&hide=css" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaqubRahman&theme=tokyonight&hide=css" width="280" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaqubRahman&theme=tokyonight" width="280" />
 </div>
 
