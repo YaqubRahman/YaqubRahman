@@ -12,8 +12,7 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YaqubRahman&layout=compact&theme=tokyonight&hide=css" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaqubRahman&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaqubRahman&theme=tokyonight" width="280" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaqubRahman&theme=tokyonight" width="280" />
 </div>
