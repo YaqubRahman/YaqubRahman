@@ -5,10 +5,8 @@
 
 # 
  - 🎓 I'm a second year undergraduate CS student
- - 🧰 Tech Lead @ Montage AI
  - 📜 I have experience in Python, Java, Kotlin, TypeScript, Javascript, C++, MySQL, React and more! 
  - 🧬 Currently exploring neural networks with TensorFlow and Keras alongside RAG systems
- - 🛠️ Currently building: MontageAI and an F1 Strategy Predictor
 #
 
 <div align="center">
